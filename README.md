@@ -38,15 +38,19 @@ CodeProject MVP (x2 years)**
 
 - - -
 
-#### Links
+### Links
 **Blog:**    
 https://markpelf.com/   
+
 **CodeProject articles:**   
 https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=8185779   
+
 **CSharp Corner profile:**   
 https://www.c-sharpcorner.com/members/mark-pelf    
+
 **Shutterstock profile:**   
 https://www.shutterstock.com/g/mark.pelf    
+
 **Medium profile:**   
 https://medium.com/@mark.pelf   
 
